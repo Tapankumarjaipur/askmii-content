@@ -1,0 +1,28 @@
+[
+    {
+      "id": 1,
+      "text": "Avoid clicking unknown or shortened links, especially in emails or DMs.",
+      "title": "🚫 Suspicious Links"
+    },
+    {
+      "id": 2,
+      "text": "Think twice before responding to “urgent” messages asking for money or info.",
+      "title": "⚠️ Urgent Requests"
+    },
+    {
+      "id": 3,
+      "text": "Check for typos and fake domains before trusting sender emails.",
+      "title": "📧 Unusual Emails"
+    },
+    {
+      "id": 4,
+      "text": "Be skeptical of giveaways, rewards, or job offers that seem too good to be true.",
+      "title": "🎁 Unrealistic Offers"
+    },
+    {
+      "id": 5,
+      "text": "Use strong passwords and enable two-factor authentication (2FA).",
+      "title": "🔐 Password Safety"
+    }
+  ]
+  
