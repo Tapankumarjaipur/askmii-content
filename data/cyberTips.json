@@ -2,7 +2,7 @@
   {
     "id": 1,
     "title": "🚫 Avoid Suspicious Links",
-    "text": "Planning your helicopter yatra to Kedarnath?\n\nRemember — the only official booking website is:\n👉 heliyatra.irctc.co.in\nAny other random links are likely traps set by scammers."
+    "text": "Planning your helicopter yatra to Kedarnath?\n\nRemember — the only official booking website is:\n👉 <a href=\"http://heliyatra.irctc.co.in\" target=\"_blank\" rel=\"noopener noreferrer\">heliyatra.irctc.co.in</a>\nAny other random links are likely traps set by scammers."
   },
   {
     "id": 2,
