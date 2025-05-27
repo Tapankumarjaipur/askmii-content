@@ -1,12 +1,67 @@
 [
   {
     "id": 1,
-    "title": "🚫 Suspicious Links",
-    "text": "Avoid clicking unknown or shortened links, especially in emails or DMs."
+    "title": "🚫 Avoid Suspicious Links",
+    "text": "Never click unknown or shortened links in emails, SMS, or social media DMs. They could be phishing attempts."
   },
   {
     "id": 2,
-    "title": "🔐 Strong Passwords",
-    "text": "Use complex passwords with a mix of letters, numbers, and special characters."
+    "title": "🔒 Use Strong, Unique Passwords",
+    "text": "Create a different strong password for each account. Use a password manager to store them securely."
+  },
+  {
+    "id": 3,
+    "title": "🔑 Enable Two-Factor Authentication (2FA)",
+    "text": "Turn on 2FA for all important accounts (bank, email, social). It adds an extra layer of protection beyond just a password."
+  },
+  {
+    "id": 4,
+    "title": "📵 Silence Unknown Callers",
+    "text": "Enable 'Silence Unknown Callers' on your phone to avoid vishing calls pretending to be banks or government bodies."
+  },
+  {
+    "id": 5,
+    "title": "🧾 Avoid Clicking on Bank SMS Links",
+    "text": "Phishing SMS pretending to be cashback or bank alerts are common. Visit bank websites/apps directly instead of clicking SMS links."
+  },
+  {
+    "id": 6,
+    "title": "🔌 Avoid Public USB Charging Ports",
+    "text": "Using public USB ports can expose your phone to 'juice jacking' attacks. Always use your own power adapter."
+  },
+  {
+    "id": 7,
+    "title": "🧼 Clear Browser Data Weekly",
+    "text": "Delete cookies, cache, and browsing history weekly to remove tracking and prevent session hijacking."
+  },
+  {
+    "id": 8,
+    "title": "🕵️ Use Incognito on Shared Devices",
+    "text": "When using public or borrowed devices, always use Incognito/Private mode and never save your credentials."
+  },
+  {
+    "id": 9,
+    "title": "🛑 Don't Share Screen with Strangers",
+    "text": "Scammers may ask you to share your screen for 'support' or 'refunds'. They can steal OTPs or passwords this way."
+  },
+  {
+    "id": 10,
+    "title": "📶 Turn Off Bluetooth When Not Needed",
+    "text": "Bluetooth can be used to access your files without your knowledge. Turn it off when you're not using it."
+  },
+  {
+    "id": 11,
+    "title": "🧠 Educate Your Family",
+    "text": "Talk to your parents, siblings, or grandparents about online scams like fake job offers, lotteries, or bank frauds."
+  },
+  {
+    "id": 12,
+    "title": "🔄 Enable Auto-Updates",
+    "text": "Keep your apps and OS updated to fix security bugs. Most cyber attacks exploit outdated software."
+  },
+  {
+    "id": 13,
+    "title": "🔍 Google Yourself Occasionally",
+    "text": "Search your name, email, and phone to see what’s publicly visible. Remove sensitive results where possible."
   }
 ]
