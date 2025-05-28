@@ -1,0 +1,62 @@
+[
+  {
+    "question": "How can I protect my social media account from being hacked?",
+    "answer": "Enable two-factor authentication (2FA), use a strong and unique password, log out from shared devices, and avoid clicking on unknown links or suspicious DMs."
+  },
+  {
+    "question": "What should I do if I receive a message saying I violated community guidelines?",
+    "answer": "Don’t panic or click on any links. These messages are often phishing scams. Go to the official app and check for real alerts under notifications or account status."
+  },
+  {
+    "question": "How do impersonation scams work on platforms like Instagram and Facebook?",
+    "answer": "Scammers create fake profiles using your photos and name, then message your friends asking for money or personal info. Always report impersonation accounts directly through the platform."
+  },
+  {
+    "question": "Can scammers really clone my WhatsApp or Telegram?",
+    "answer": "Yes, if they gain access to your OTP. Never share verification codes with anyone — even if the request appears to come from a friend or support team."
+  },
+  {
+    "question": "What is the ‘Verification Badge’ scam on Instagram?",
+    "answer": "Scammers pose as 'Instagram Support' offering verified badges in exchange for login details or payments. Instagram never charges or messages users for verification."
+  },
+  {
+    "question": "How can I report a hacked or compromised account?",
+    "answer": "Use the official help center of the platform. For Instagram: help.instagram.com. For Facebook: facebook.com/hacked. Avoid using third-party recovery services."
+  },
+  {
+    "question": "Is it safe to share my phone number or email in public comments?",
+    "answer": "No, never share personal contact details publicly. It exposes you to spam, phishing, and social engineering attacks."
+  },
+  {
+    "question": "Can cybercriminals use my photos from social media?",
+    "answer": "Yes. Publicly posted photos can be misused for impersonation, fake profiles, romance scams, or AI-generated deepfakes. Always review your privacy settings."
+  },
+  {
+    "question": "Why is it risky to link all accounts to one email or phone number?",
+    "answer": "If that one email or number is compromised, all linked accounts become vulnerable. Use different credentials and enable 2FA for extra security."
+  },
+  {
+    "question": "What are giveaway scams on social media?",
+    "answer": "Scammers pose as brands or influencers claiming you've won a prize. They’ll ask for personal details or payment for 'delivery'. Real giveaways never ask for money."
+  },
+  {
+    "question": "How do I avoid fake customer care pages on social media?",
+    "answer": "Search for verified pages (blue tick), check usernames carefully, and never call phone numbers found in comment sections. Real brands never ask for OTPs or bank info via DM."
+  },
+  {
+    "question": "Why do I keep seeing crypto or investment scams in comments?",
+    "answer": "Scammers flood comment sections with fake success stories or accounts promising big returns. Never trust financial advice or DMs from strangers on social media."
+  },
+  {
+    "question": "How do I talk to my kids about social media safety?",
+    "answer": "Use real examples of scams, help them understand privacy settings, and encourage open communication. Install parental controls where needed."
+  },
+  {
+    "question": "What is the risk of using third-party apps to track followers or stats?",
+    "answer": "Many such apps ask for login access and steal your credentials. Always use official analytics tools provided by the platform."
+  },
+  {
+    "question": "What should I do if my private photos are leaked or misused?",
+    "answer": "Report the content immediately on the platform, file a complaint on cybercrime.gov.in, and avoid confronting the blackmailer directly. Seek legal support if needed."
+  }
+]
