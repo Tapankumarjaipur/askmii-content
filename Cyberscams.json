@@ -1,0 +1,82 @@
+[
+  {
+    "question": "What is a UPI scam and how does it work?",
+    "answer": "UPI scams involve fraudsters requesting payment through UPI apps. They trick users into approving a collect request (pull transaction) instead of sending money. Always verify before authorizing any UPI transaction."
+  },
+  {
+    "question": "How do fake customer care scams happen?",
+    "answer": "Fraudsters post fake numbers online or on social media. When victims call, scammers ask for OTPs or remote access. Always contact customer care through official websites or apps."
+  },
+  {
+    "question": "What is a 'Digital Arrest' scam?",
+    "answer": "Fraudsters impersonate police or government officers on video calls, claiming illegal activity under your name. They demand money to avoid arrest. Real authorities never demand payment digitally or via calls."
+  },
+  {
+    "question": "How do loan app scams trap users?",
+    "answer": "Fake loan apps offer instant loans, then harass users with threats and access their contacts/photos. Never install non-verified loan apps. Use RBI-registered NBFC apps only."
+  },
+  {
+    "question": "What is the OTP scam related to courier deliveries?",
+    "answer": "Victims get fake messages about pending courier deliveries requiring OTP or payments. Scammers steal details or money once OTP is entered. Courier companies never ask for OTPs to release packages."
+  },
+  {
+    "question": "How can I avoid bank fraud calls?",
+    "answer": "Never share your OTP, CVV, PIN, or password over the phone. No bank will ever ask for this. Hang up and call the official bank number if in doubt."
+  },
+  {
+    "question": "What are fake job offer scams?",
+    "answer": "Scammers offer fake jobs via email or WhatsApp, then demand money for registration or training. Real companies do not charge applicants for interviews or placements."
+  },
+  {
+    "question": "How do remote access scams work?",
+    "answer": "Fraudsters convince victims to install apps like AnyDesk or TeamViewer for 'support'. They then control the device and steal data. Never give screen access to unknown people."
+  },
+  {
+    "question": "What is the WhatsApp/KYC update scam?",
+    "answer": "Scammers send messages saying your KYC is incomplete and threaten account suspension. They link to phishing pages to steal info. Always verify KYC via the official app or website."
+  },
+  {
+    "question": "How do electricity bill frauds work?",
+    "answer": "You receive SMS claiming unpaid electricity bills with a payment deadline. The link provided leads to a fake payment portal or malware. Always use official apps for bill payments."
+  },
+  {
+    "question": "What are fake dating or romance scams?",
+    "answer": "Scammers befriend victims on dating platforms or social media, then manipulate them emotionally to send money. Be cautious of anyone asking for money online."
+  },
+  {
+    "question": "What is 'SIM swap' fraud?",
+    "answer": "Fraudsters get your mobile SIM reissued and intercept OTPs for banking. Use SIM lock, don't share personal info, and enable transaction alerts to detect suspicious activity."
+  },
+  {
+    "question": "Can QR codes be dangerous?",
+    "answer": "Yes. Fraudulent QR codes can direct you to fake payment pages or steal credentials. Never scan codes from strangers or unverified sources."
+  },
+  {
+    "question": "What is juice jacking?",
+    "answer": "Juice jacking involves data theft via public USB charging ports. Use only your charger or a power bank. Avoid using unknown USB ports in public places."
+  },
+  {
+    "question": "What is the Paytm/Google Pay KYC scam?",
+    "answer": "Scammers impersonate wallet providers and send fake KYC update links. These lead to phishing pages. Wallet companies never ask for KYC updates via third-party messages."
+  },
+  {
+    "question": "Are screen-sharing apps safe for banking support?",
+    "answer": "No. Banks never ask you to share your screen or download apps like AnyDesk. These are used by fraudsters to steal OTPs or access accounts."
+  },
+  {
+    "question": "What should I do if I fall for a scam?",
+    "answer": "Immediately report to cybercrime.gov.in or call 1930 (Cyber Crime Helpline). Inform your bank to freeze accounts if needed. Save screenshots and transaction IDs as evidence."
+  },
+  {
+    "question": "How can I verify if an app or link is safe?",
+    "answer": "Check app reviews, developer details, and install count on Play Store. Avoid APKs and links sent over WhatsApp or SMS. Use official sources only."
+  },
+  {
+    "question": "Why do scammers target students and job seekers?",
+    "answer": "Students are often unaware of online threats and eager to grab offers. Always verify job offers, internships, and money-making apps before sharing your data."
+  },
+  {
+    "question": "What are cashback or refund scams?",
+    "answer": "Fraudsters promise cashback or refunds, then send fake links to phishing sites. Always check refunds via your original payment app or company’s support."
+  }
+]
