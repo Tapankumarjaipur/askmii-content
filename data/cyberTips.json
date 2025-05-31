@@ -1,14 +1,39 @@
 {
-  "tips": [
+  "cyberAwareness": [
     {
       "id": 1,
-      "title": "मजबूत पासवर्ड बनाएं",
-      "description": "अपने सभी ऑनलाइन अकाउंट्स के लिए मजबूत और अलग-अलग पासवर्ड का उपयोग करें। इसमें बड़े-छोटे अक्षर, नंबर और विशेष चिन्ह शामिल होने चाहिए।"
+      "title": "Beware of Fake Income Tax Refund Messages",
+      "summary": "Scammers are sending fake SMS/emails claiming you're eligible for a tax refund.",
+      "details": "The message contains a phishing link asking for your bank and Aadhaar details. The Income Tax Department never asks for sensitive info over SMS or email. Always verify via the official portal.",
+      "source": "https://incometax.gov.in"
     },
     {
       "id": 2,
-      "title": "दो-चरणीय प्रमाणीकरण (2FA) चालू करें",
-      "description": "जहाँ भी संभव हो, दो-चरणीय प्रमाणीकरण का इस्तेमाल करें ताकि आपके अकाउंट की सुरक्षा बढ़ सके।"
+      "title": "Instagram Verification Scam",
+      "summary": "Cybercriminals are impersonating Instagram and offering blue tick verification via direct messages.",
+      "details": "These messages redirect users to fake login pages. If credentials are entered, the account is hijacked. Always apply for verification only through the official app settings.",
+      "source": "https://help.instagram.com"
+    },
+    {
+      "id": 3,
+      "title": "Free Laptop Scholarship Scam for Students",
+      "summary": "Fake websites are promoting free laptop schemes in the name of government scholarships.",
+      "details": "Users are lured into sharing personal details, including ID proof and OTPs. No such scheme is currently active. Always check on official portals like scholarships.gov.in.",
+      "source": "https://scholarships.gov.in"
+    },
+    {
+      "id": 4,
+      "title": "AI Voice Cloning Fraud",
+      "summary": "Fraudsters are using AI to mimic voices of family members to ask for urgent money transfers.",
+      "details": "Always verify through a video call or alternate number before responding to any urgent request from a known contact. Never share UPI PINs or OTPs blindly.",
+      "source": ""
+    },
+    {
+      "id": 5,
+      "title": "Fake Customer Care Numbers on Google",
+      "summary": "Searching for bank or airline customer care numbers may lead you to fake contact listings.",
+      "details": "Scammers list fraudulent numbers and ask for account access, OTPs, or remote control. Visit the official website of the service provider to find contact info.",
+      "source": "https://cybercrime.gov.in"
     }
   ]
 }
