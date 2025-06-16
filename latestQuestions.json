@@ -3,27 +3,33 @@
     "id": 1,
     "expertName": "Mr. Tapan Hada",
     "expertImage": "/images/expert1.png",
-    "expertField": "B.Tech. In Cyber Security",
-    "answersCount": "1",
-    "bio": "Mr. Tapan Hada is an B.Tech. in cyber and providing their Consultancy to many govt. department etc... ",
+    "expertField": "B.Tech. in Cyber Security",
+    "bio": "Mr. Tapan Hada is a Cyber Security Consultant for Govt. departments...",
     "askedBy": "Anonymous",
     "date": "Answered on - June 16, 2025",
-    "question": "I have received a link for APK to do KYC of Bank, Should I click on that or not ",
-    "answer": "Banks Never send any APK file to complete your KYC, ignore it and don't click on that link"
+    "question": "I received a link to install APK for bank KYC. Should I click?",
+    "answer": "No, banks never send APKs. It's a scam, do not click!"
   },
-{
-    "id": 1,
+  {
+    "id": 2,
+    "expertName": "Dr. Anjali Mehta",
+    "expertImage": "/images/expert2.png",
+    "expertField": "Ph.D. in Digital Forensics",
+    "bio": "Dr. Anjali Mehta is a researcher and professor in cybersecurity laws...",
+    "askedBy": "Ravi Sharma",
+    "date": "Answered on - June 15, 2025",
+    "question": "Can I report Instagram scam profiles anywhere?",
+    "answer": "Yes, report it via the Instagram app. Also share with Cybercrime.gov.in if it’s serious."
+  },
+  {
+    "id": 3,
     "expertName": "Mr. Tapan Hada",
     "expertImage": "/images/expert1.png",
-    "expertField": "B.Tech. In Cyber Security",
-    "answersCount": "2",
-    "bio": "Mr. Tapan Hada is an B.Tech. in cyber and providing their Consultancy to many govt. department etc... ",
-    "askedBy": "Harpal Singh",
-    "date": "Answered on - June 16, 2025",
-    "question": "How do I know if a social media profile is fake ?",
-    "answer": "To spot a fake social media profile, check for a stolen or stock profile picture (reverse image search it), a new account with few posts but many followers, a vague or overly dramatic bio, and suspicious links or messages asking for money or personal info. Fake accounts often have random numbers in usernames and avoid real-life photos.
-
-"
+    "expertField": "B.Tech. in Cyber Security",
+    "bio": "Mr. Tapan Hada is a Cyber Security Consultant for Govt. departments...",
+    "askedBy": "Meena Kumari",
+    "date": "Answered on - June 14, 2025",
+    "question": "How to know if a message is fake from India Post?",
+    "answer": "Check the sender’s number. Don’t click on suspicious links and verify via India Post’s official site."
   }
 ]
-  
