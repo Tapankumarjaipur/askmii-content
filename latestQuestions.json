@@ -1,12 +1,14 @@
-{
-  "id": 1,
-  "expertName": "Dr Nagarajan J S K",
-  "expertImage": "/image/expert1.png",
-  "expertField": "NEET, Medical, Pharmacy Careers",
-  "answersCount": 1108,
-  "bio": "Dr Nagarajan JSK is an associate professor and former head of medical research...",
-  "askedBy": "Anonymous",
-  "date": "Jun 16, 2025",
-  "question": "My son is in 11th grade CBSE and for JEE coaching...",
-  "answer": "JEE Main preparation covers extensive Physics, Chemistry..."
-}
+[
+  {
+    "id": 1,
+    "expertName": "Dr Nagarajan J S K",
+    "expertImage": "/image/expert1.png",
+    "expertField": "NEET, Medical, Pharmacy Careers",
+    "answersCount": 1108,
+    "bio": "Dr Nagarajan JSK is an associate professor and former head of medical research...",
+    "askedBy": "Anonymous",
+    "date": "Jun 16, 2025",
+    "question": "My son is in 11th grade CBSE and for JEE coaching...",
+    "answer": "JEE Main preparation covers extensive Physics, Chemistry..."
+  }
+]
