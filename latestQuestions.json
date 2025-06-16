@@ -1,14 +1,16 @@
 [
   {
     "id": 1,
-    "expertName": "Dr Nagarajan J S K",
-    "expertField": "NEET, Medical, Pharmacy Careers",
-    "bio": "Dr Nagarajan JSK is an associate professor and former head of medical research at the JSS College of Pharmacy, Ooty. With over 30 years of experience, he helps students make informed career decisions in pharmacy and medical fields.",
+    "expertName": "Dr Tarun",
+    "expertField": "Cyber Expert, Pentester",
+    "answersCount": 105,
+    "bio": "Dr Tarun is an ethical hacker and cyber law advisor with expertise in fraud detection and phishing incident response. He has mentored 1000+ students.",
     "askedBy": "Anonymous",
     "date": "Jun 15, 2025",
-    "question": "Which option would be better as I residing near Delhi for better placement and LPA — CSE Vellore or CSE JP Noida Sec-62?",
-    "answer": "Both are private universities. For placements, having a strong brand will help you connect with better companies. Please keep in mind that without your own effort, success will be difficult to achieve.\nBEST WISHES."
-  },
+    "question": "What to do if I get a fake message from India Post?",
+    "answer": "Never click the suspicious link. Go to India Post’s official site. Report it to cybercrime.gov.in immediately."
+  }
+]
   {
     "id": 2,
     "expertName": "Cyber Expert Team",
