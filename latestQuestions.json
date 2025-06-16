@@ -2,6 +2,7 @@
   {
     "id": 1,
     "expertName": "Mr. Tapan Hada",
+    "expertSlug": "tapan-hada",
     "expertImage": "/images/expert1.png",
     "expertField": "B.Tech. in Cyber Security",
     "bio": "Mr. Tapan Hada is a Cyber Security Consultant for Govt. departments...",
@@ -13,6 +14,7 @@
   {
     "id": 2,
     "expertName": "Dr. Anjali Mehta",
+    "expertSlug": "anjali-mehta",
     "expertImage": "/images/expert2.png",
     "expertField": "Ph.D. in Digital Forensics",
     "bio": "Dr. Anjali Mehta is a researcher and professor in cybersecurity laws...",
@@ -24,6 +26,7 @@
   {
     "id": 3,
     "expertName": "Mr. Tapan Hada",
+    "expertSlug": "tapan-hada",
     "expertImage": "/images/expert1.png",
     "expertField": "B.Tech. in Cyber Security",
     "bio": "Mr. Tapan Hada is a Cyber Security Consultant for Govt. departments...",
