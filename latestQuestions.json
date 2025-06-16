@@ -1,13 +1,12 @@
-[
-  {
-    "id": 1,
-    "expertName": "Dr Tarun",
-    "expertField": "Cyber Expert, Pentester",
-    "answersCount": 105,
-    "bio": "Dr Tarun is an ethical hacker and cyber law advisor with expertise in fraud detection and phishing incident response. He has mentored 1000+ students.",
-    "askedBy": "Anonymous",
-    "date": "Jun 15, 2025",
-    "question": "What to do if I get a fake message from India Post?",
-    "answer": "Never click the suspicious link. Go to India Post’s official site. Report it to cybercrime.gov.in immediately."
-  }
-]
+{
+  "id": 1,
+  "expertName": "Dr Nagarajan J S K",
+  "expertImage": "/image/expert1.png",
+  "expertField": "NEET, Medical, Pharmacy Careers",
+  "answersCount": 1108,
+  "bio": "Dr Nagarajan JSK is an associate professor and former head of medical research...",
+  "askedBy": "Anonymous",
+  "date": "Jun 16, 2025",
+  "question": "My son is in 11th grade CBSE and for JEE coaching...",
+  "answer": "JEE Main preparation covers extensive Physics, Chemistry..."
+}
